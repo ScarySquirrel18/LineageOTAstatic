@@ -1,1 +1,1 @@
-python ./update.py -b
+python3 ./update.py -b

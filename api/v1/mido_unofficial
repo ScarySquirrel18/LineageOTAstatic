@@ -1,0 +1,19 @@
+{
+    "response": [
+        {
+            "incremental": "eng.user.20220628.144010",
+            "api_level": "28",
+            "url": "https://github.com/ScarySquirrel18/LineageOTAstatic/releases/download/22.6.28/lineage-16.0-20220628-UNOFFICIAL-mido.zip",
+            "timestamp": 1656419993,
+            "md5sum": "270238cd166abebde5548eb317978a93",
+            "changes": "https://github.com/ScarySquirrel18/LineageOTAstatic/releases/tag/22.6.28",
+            "channel": "unofficial",
+            "filename": "lineage-16.0-20220628-UNOFFICIAL-mido.zip",
+            "romtype": "unofficial",
+            "datetime": 1656419993,
+            "version": "16.0",
+            "id": "efdaff25cec300ee650deb81de0cba1ddac16d0b9c6e9c4687d2cf64fa6e3d7d",
+            "size": 646985094
+        }
+    ]
+}
